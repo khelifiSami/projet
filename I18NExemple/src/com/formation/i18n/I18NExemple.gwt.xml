@@ -10,8 +10,7 @@
   <inherits name='com.google.gwt.user.theme.standard.Standard'/>
   <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
   <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
-
-  <!-- Other module inherits                                      -->
+  <-- je suis la -->
 
   <!-- Specify the app entry point class.                         -->
   <entry-point class='com.formation.i18n.client.I18NExemple'/>
