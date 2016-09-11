@@ -1,0 +1,2 @@
+serviceClass: com.formation.i18n.client.BiblioService
+path: D30721F37552EE8786F29482B8756F52.gwt.rpc

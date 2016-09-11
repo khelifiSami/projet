@@ -1,0 +1,3 @@
+# Module i18nexemple
+# RPC service class, partial path of RPC policy file
+com.formation.i18n.client.BiblioService, D30721F37552EE8786F29482B8756F52.gwt.rpc
